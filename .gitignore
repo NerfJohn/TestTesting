@@ -2,3 +2,6 @@
 TestTestingProject/.settings
 TestTestingProject/.launches
 TestTestingProject/Debug
+
+# Items from GoogleTest (or products of it)
+build
