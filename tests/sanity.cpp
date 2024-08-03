@@ -10,5 +10,5 @@
 TEST(SanityTest, BasicAssertions) {
 	// Check basic assertions.
 	EXPECT_STRNE("hello", "world");
-	EXPECT_EQ(7 * 5, 42);
+	EXPECT_EQ(7 * 6, 42);
 }
